@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f8218e58-5065-4d57-ac4a-76526128a4cb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eIsf14X7tph5AmefTKo0GI4s4G" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/utils" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\sales-network\utils" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="network" type="Python.DjangoServer" factoryName="Django server">
+      <module name="sales_network" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="docker://yangwanjun/sales:latest/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="DockerContainerSettingsRunConfigurationExtension">
+        <option name="envVars">
+          <list />
+        </option>
+        <option name="extraHosts">
+          <list />
+        </option>
+        <option name="links">
+          <list>
+            <DockerLinkImpl>
+              <option name="alias" value="mysql8" />
+              <option name="name" value="mysql8" />
+            </DockerLinkImpl>
+          </list>
+        </option>
+        <option name="networkDisabled" value="false" />
+        <option name="networkMode" value="bridge" />
+        <option name="portBindings">
+          <list />
+        </option>
+        <option name="publishAllPorts" value="false" />
+        <option name="version" value="1" />
+        <option name="volumeBindings">
+          <list>
+            <DockerVolumeBindingImpl>
+              <option name="containerPath" value="/opt/project" />
+              <option name="editable" value="true" />
+              <option name="hostPath" value="/workspace/sales-network" />
+              <option name="readOnly" value="false" />
+            </DockerVolumeBindingImpl>
+          </list>
+        </option>
+      </EXTENSION>
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="0.0.0.0" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8218e58-5065-4d57-ac4a-76526128a4cb" name="Default Changelist" comment="" />
+      <created>1594020540762</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594020540762</updated>
+      <workItem from="1594020542297" duration="429000" />
+      <workItem from="1594033014589" duration="5412000" />
+      <workItem from="1594041195767" duration="3528000" />
+      <workItem from="1594137370000" duration="660000" />
+      <workItem from="1594187177899" duration="328000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2585" y="145" key="#Links" timestamp="1594034074690">
+      <screen x="1920" y="0" width="2560" height="1410" />
+    </state>
+    <state x="2585" y="145" key="#Links/0.0.1536.834/1920.0.2560.1410@1920.0.2560.1410" timestamp="1594034074690" />
+    <state x="399" y="86" key="#Links/0.0.1536.834@0.0.1536.834" timestamp="1594020779020" />
+    <state x="2570" y="196" key="#Volume_binding" timestamp="1594041274674">
+      <screen x="1920" y="0" width="2560" height="1410" />
+    </state>
+    <state x="2570" y="196" key="#Volume_binding/0.0.1536.834/1920.0.2560.1410@1920.0.2560.1410" timestamp="1594041274674" />
+    <state x="390" y="116" key="#Volume_binding/0.0.1536.834@0.0.1536.834" timestamp="1594020742555" />
+    <state x="2292" y="122" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594041278736">
+      <screen x="1920" y="0" width="2560" height="1410" />
+    </state>
+    <state x="2292" y="122" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834/1920.0.2560.1410@1920.0.2560.1410" timestamp="1594041278736" />
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1594020781195" />
+    <state width="2517" height="287" key="GridCell.Tab.0.bottom" timestamp="1594093055017">
+      <screen x="1920" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="287" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.2560.1410@1920.0.2560.1410" timestamp="1594093055017" />
+    <state width="2517" height="287" key="GridCell.Tab.0.center" timestamp="1594093055017">
+      <screen x="1920" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="287" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.2560.1410@1920.0.2560.1410" timestamp="1594093055017" />
+    <state width="2517" height="287" key="GridCell.Tab.0.left" timestamp="1594093055016">
+      <screen x="1920" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="287" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.2560.1410@1920.0.2560.1410" timestamp="1594093055016" />
+    <state width="2517" height="287" key="GridCell.Tab.0.right" timestamp="1594093055017">
+      <screen x="1920" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="287" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.2560.1410@1920.0.2560.1410" timestamp="1594093055017" />
+    <state width="2517" height="287" key="GridCell.Tab.1.bottom" timestamp="1594093055017">
+      <screen x="1920" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="287" key="GridCell.Tab.1.bottom/0.0.1536.834/1920.0.2560.1410@1920.0.2560.1410" timestamp="1594093055017" />
+    <state width="2517" height="287" key="GridCell.Tab.1.center" timestamp="1594093055017">
+      <screen x="1920" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="287" key="GridCell.Tab.1.center/0.0.1536.834/1920.0.2560.1410@1920.0.2560.1410" timestamp="1594093055017" />
+    <state width="2517" height="287" key="GridCell.Tab.1.left" timestamp="1594093055017">
+      <screen x="1920" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="287" key="GridCell.Tab.1.left/0.0.1536.834/1920.0.2560.1410@1920.0.2560.1410" timestamp="1594093055017" />
+    <state width="2517" height="287" key="GridCell.Tab.1.right" timestamp="1594093055017">
+      <screen x="1920" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="287" key="GridCell.Tab.1.right/0.0.1536.834/1920.0.2560.1410@1920.0.2560.1410" timestamp="1594093055017" />
+    <state x="2708" y="347" key="SettingsEditor" timestamp="1594041260695">
+      <screen x="1920" y="0" width="2560" height="1410" />
+    </state>
+    <state x="2708" y="347" key="SettingsEditor/0.0.1536.834/1920.0.2560.1410@1920.0.2560.1410" timestamp="1594041260695" />
+    <state x="463" y="149" width="609" height="536" key="find.popup" timestamp="1594020956698">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="463" y="149" width="609" height="536" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1594020956698" />
+    <state x="2856" y="358" width="672" height="676" key="search.everywhere.popup" timestamp="1594041542642">
+      <screen x="1920" y="0" width="2560" height="1410" />
+    </state>
+    <state x="2856" y="358" width="672" height="676" key="search.everywhere.popup/0.0.1536.834/1920.0.2560.1410@1920.0.2560.1410" timestamp="1594041542642" />
+  </component>
+</project>
